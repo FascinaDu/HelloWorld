@@ -48,6 +48,7 @@ index.html
 Este projeto está sob a licença [MIT](LICENSE).  
 Veja mais detalhes no arquivo [`LICENSE`](LICENSE).
 
+## 💬 Contatos
 <div> 
   <a href="https://www.youtube.com/@fascinadu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fascinadu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
