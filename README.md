@@ -4,13 +4,14 @@
 
 ## 📖 Índice
 
-- [📌 Sobre o Projeto](#sobre-o-projeto)
-- [🚀 Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [📦 Instalação](#instalação)
-- [📖 Como Usar](#como-usar)
-- [📜 Licença](#licença)
+- [📌 Sobre o Projeto](#📌sobre-o-projeto)
+- [🚀 Tecnologias Utilizadas](#🚀tecnologias-utilizadas)
+- [📦 Instalação](#📦instalação)
+- [📖 Como Usar](#📖como-usar)
+- [📜 Licença](#📜licença)
+- [💬 Contatos](#💬contatos)
 
-## Sobre o Projeto
+## 📌 Sobre o Projeto
 
 Este projeto foi criado com o objetivo de impulsionar meu aprendizado, testar novas ideias e explorar minha criatividade. Ao longo do curso, tudo o que eu aprender será implementado neste repositório. Ele serve como um espaço onde posso aplicar meus conhecimentos em tempo real, experimentar novas tecnologias e acompanhar as tendências do desenvolvimento, garantindo um aprendizado prático e contínuo.
 
