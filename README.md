@@ -12,7 +12,7 @@
 
 ## 📌 Sobre o Projeto
 
-Esse projeto foi desenvolvido para meu aprendizado, testes e criatividade. Tudo que eu aprender durante o curso será realizado nesse repositório. Ele me permite testar novos conhecimentos e tendências.
+Este projeto foi criado com o objetivo de impulsionar meu aprendizado, testar novas ideias e explorar minha criatividade. Ao longo do curso, tudo o que eu aprender será implementado neste repositório. Ele serve como um espaço onde posso aplicar meus conhecimentos em tempo real, experimentar novas tecnologias e acompanhar as tendências do desenvolvimento, garantindo um aprendizado prático e contínuo.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -38,7 +38,7 @@ index.html
 ```
 ## ▶️ Como Usar
 
-É apenas um site comum sem nenhuma interação, mas para executar o arquivo
+É apenas um site comum sem nenhuma interação, para executar o arquivo e ir ao site:
 ```sh
 index.html
 ```
@@ -47,3 +47,11 @@ index.html
 
 Este projeto está sob a licença [MIT](LICENSE).  
 Veja mais detalhes no arquivo [`LICENSE`](LICENSE).
+
+<div> 
+  <a href="https://www.youtube.com/@fascinadu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/fascinadu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardofascinamiranda07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardofascina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
