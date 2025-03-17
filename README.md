@@ -10,7 +10,7 @@
 - [📖 Como Usar](#como-usar)
 - [📜 Licença](#licença)
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi criado com o objetivo de impulsionar meu aprendizado, testar novas ideias e explorar minha criatividade. Ao longo do curso, tudo o que eu aprender será implementado neste repositório. Ele serve como um espaço onde posso aplicar meus conhecimentos em tempo real, experimentar novas tecnologias e acompanhar as tendências do desenvolvimento, garantindo um aprendizado prático e contínuo.
 
@@ -36,7 +36,7 @@ cd HelloWorld
 #Execute o index.html
 index.html
 ```
-## ▶️ Como Usar
+## 📖 Como Usar
 
 É apenas um site comum sem nenhuma interação, para executar o arquivo e ir ao site:
 ```sh
