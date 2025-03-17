@@ -1,13 +1,13 @@
 # 📌 Hello, World!
 
-> Meu primeiro repositório | Criado no curso: **Git e GitHub - Curso em Vídeo**
+> Meu primeiro repositório criado com o curso: **Git e GitHub - Curso em Vídeo**
 
 ## 📖 Índice
 
 - [📌 Sobre o Projeto](#sobre-o-projeto)
 - [🚀 Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [📦 Instalação](#instalação)
-- [▶️ Como Usar](#como-usar)
+- [📖 Como Usar](#como-usar)
 - [📜 Licença](#licença)
 
 ## 📌 Sobre o Projeto
@@ -33,11 +33,15 @@ git clone https://github.com/FascinaDu/HelloWorld.git
 # Acesse a pasta do projeto
 cd HelloWorld
 
+#Execute o index.html
+index.html
+```
 ## ▶️ Como Usar
 
-Execute o seguinte comando para rodar o projeto:
-   ```sh
-   python nome_do_arquivo.py
+É apenas um site comum sem nenhuma interação, mas para executar o arquivo
+```sh
+index.html
+```
 
 ## 📜 Licença
 
