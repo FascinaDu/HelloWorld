@@ -4,12 +4,12 @@
 
 ## 📖 Índice
 
-- [📌 Sobre o Projeto](#:pushpin:sobre-o-projeto)
-- [🚀 Tecnologias Utilizadas](#:package:tecnologias-utilizadas)
-- [📦 Instalação](#:package:instalação)
-- [📖 Como Usar](#:open_book:como-usar)
-- [📜 Licença](#:scroll:licença)
-- [💬 Contatos](#:speech_balloon:contatos)
+- [📌 Sobre o Projeto](#sobre-o-projeto)
+- [🚀 Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [📦 Instalação](#instalação)
+- [📖 Como Usar](#como-usar)
+- [📜 Licença](#licença)
+- [💬 Contatos](#contatos)
 
 ## :pushpin:Sobre o Projeto
 
