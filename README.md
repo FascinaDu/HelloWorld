@@ -11,11 +11,11 @@
 - [📜 Licença](#📜licença)
 - [💬 Contatos](#💬contatos)
 
-## 📌 Sobre o Projeto
+## 📌Sobre o Projeto
 
 Este projeto foi criado com o objetivo de impulsionar meu aprendizado, testar novas ideias e explorar minha criatividade. Ao longo do curso, tudo o que eu aprender será implementado neste repositório. Ele serve como um espaço onde posso aplicar meus conhecimentos em tempo real, experimentar novas tecnologias e acompanhar as tendências do desenvolvimento, garantindo um aprendizado prático e contínuo.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀Tecnologias Utilizadas
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -23,7 +23,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - 💾 Git
 - 🐱 GitHub
 
-## 📦 Instalação
+## 📦Instalação
 
 Para instalar e executar o projeto, siga os passos abaixo:
 
@@ -37,19 +37,19 @@ cd HelloWorld
 #Execute o index.html
 index.html
 ```
-## 📖 Como Usar
+## 📖Como Usar
 
 É apenas um site comum sem nenhuma interação, para executar o arquivo e ir ao site:
 ```sh
 index.html
 ```
 
-## 📜 Licença
+## 📜Licença
 
 Este projeto está sob a licença [MIT](LICENSE).  
 Veja mais detalhes no arquivo [`LICENSE`](LICENSE).
 
-## 💬 Contatos
+## 💬Contatos
 <div> 
   <a href="https://www.youtube.com/@fascinadu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fascinadu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
